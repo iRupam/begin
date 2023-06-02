@@ -72,7 +72,7 @@ class uniqueNumberGame{
             System.out.println("Alexa");
         } else {
             System.out.println("Bob");
-
         }
+    in.close();
     }
 }
